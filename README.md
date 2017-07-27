@@ -1,6 +1,6 @@
 # Get-started
-From here, you will get almost everything on how to use the Github to control version.
 ===================
+From here, you will get almost everything on how to use the Github to control version.
 
 注意事项：
 1. 创建仓库时（Create a New Repository），填好名称，务必选择私有库（**Private**），然后Create；
